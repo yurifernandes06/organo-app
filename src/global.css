@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #6278F7;
+    --color-white: #FFFFFF;
+    --button-hover-color: #95FFD4;
+    --header-background-color: #F0F0F0;
+    --footer-color: #212121;
+    --form-background-color: #F2F2F2;
+    --programming-primary-color: #57C278;
+    --programming-secondary-color: #D9F7E9;
+    --frontend-primary-color: #82CFFA;
+    --frontend-secondary-color: #E8F8FF;
+    --data-science-primary-color: #A6D157;
+    --data-science-secondary-color: #F0F8E2;
+    --devops-primary-color: #E06B69;
+    --devops-secondary-color: #FDE7E8;
+    --ux-primary-color: #DB6EBF;
+    --ux-secondary-color: #FAE9F5;
+    --mobile-primary-color: #FFBA05;
+    --mobile-secondary-color: #FFF5D9;
+    --innovation-primary-color: #FF8A29;
+    --innovation-secundary-color: #FFEEDF;
+}
