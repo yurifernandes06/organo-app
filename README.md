@@ -1,40 +1,40 @@
 # 🗂️ Organo App
 
-Aplicação em **React** para cadastrar colaboradores e organizá-los por times, exibindo cada um em um card colorido de acordo com a equipe a que pertence.
+A **React** app for registering team members and organizing them by team, showing each one on a color-coded card based on their team.
 
 🔗 **Demo:** [organo-app-ashy.vercel.app](https://organo-app-ashy.vercel.app)
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- Cadastro de colaborador com nome, cargo, foto e time
-- Times pré-definidos, cada um com sua própria cor
-- Listagem dos colaboradores agrupados por time
-- Remoção de colaboradores cadastrados
+- Register a team member with name, role, photo and team
+- Pre-defined teams, each with its own color
+- List team members grouped by team
+- Remove registered team members
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 - [React](https://react.dev/) (Create React App)
 - JavaScript (ES6+)
 - CSS
 
-## 🚀 Como rodar o projeto
+## 🚀 Getting started
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/yurifernandes06/organo-app.git
 
-# Entre na pasta do projeto
+# Enter the project folder
 cd organo-app
 
-# Instale as dependências
+# Install dependencies
 npm install
 
-# Rode a aplicação
+# Run the app
 npm start
 ```
 
-A aplicação ficará disponível em `http://localhost:3000`.
+The app will be available at `http://localhost:3000`.
 
-## 📄 Licença
+## 📄 License
 
-Projeto de estudo, livre para uso educacional.
+Study project, free for educational use.
